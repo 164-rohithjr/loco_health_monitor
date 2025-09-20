@@ -1,0 +1,6 @@
+export FIREBASE_API_KEY="AIzaSyAkfaE5NPmqX7dckcO28L2c5PXg42_ueQM"
+export FIREBASE_AUTH_DOMAIN="ir-passenger-info-system.firebaseapp.com"
+export FIREBASE_PROJECT_ID="ir-passenger-info-system"
+export FIREBASE_STORAGE_BUCKET="ir-passenger-info-system.appspot.com"
+export FIREBASE_MESSAGING_SENDER_ID="391296660959"
+export FIREBASE_APP_ID="1:391296660959:web:850817ab90ab193d94806a"
